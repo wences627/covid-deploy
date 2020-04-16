@@ -40,13 +40,13 @@ class Container extends React.Component {
                         <br/>
                         <Info 
                             url="https://i.ytimg.com/vi/prHuClGHtmY/maxresdefault.jpg"
-                            title="Que es el coronavirus?"
+                            title="Que es coronavirus"
                             text="Los coronavirus son una extensa familia de virus que pueden causar enfermedades tanto en animales como en humanos. En los humanos, se sabe que varios coronavirus causan infecciones respiratorias que pueden ir desde el resfriado común hasta enfermedades más graves como el síndrome respiratorio de Oriente Medio (MERS) y el síndrome respiratorio agudo severo (SRAS)."
                         />
                         
                         <Info 
                             url="https://img2.rtve.es/imagenes/ciencia-vida-transmision-enfermedades-infecciosas-26-06-15/1435314987595.jpg"
-                            title="Como se Transmite?"
+                            title="Como se Transmite"
                             text="Se transmite de persona a persona a traves de gotitas que expulsa una persona enferma al hablar, toser o estornudar.
                             Pueden ser inhaladas por las personas que están cerca al enfermo y también quedarse en cualquier tipo de superficie (pasamanos, mesas, lapiceros, entre otros y ser tocadas por las manos.
                             El virus ingresa a nuestro organismo cuando nos tocamos los ojos, la nariz y la boca con las manos sin lavar."
