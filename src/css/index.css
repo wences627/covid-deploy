@@ -1,0 +1,22 @@
+html, body{
+    background-color: #d7ccc8;
+}
+
+h5{
+    text-decoration: underline;
+}
+
+h4{
+    font-size: 5vw;
+    text-decoration: underline;
+}
+.icono{
+    width: 30px;
+    height: 30px;
+}
+
+footer{
+    height: 90px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}

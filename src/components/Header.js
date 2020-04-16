@@ -1,8 +1,15 @@
 import React from 'react';
 
-const Header = (props) =>{
+const Header = ({title}) => {
     return(
-        <h1> {props.title} </h1>
+        <nav className='green'>
+            <div className="container">
+                <div className="nav-wrapper">
+                    <a href="index.html" className="brand-logo center">{title}</a>
+                </div>
+            </div>
+        </nav>
+
     )
 }
 
