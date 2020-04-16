@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/covid-deploy/static/js/main.ec15fdd8.chunk.js",
-    "main.js.map": "/covid-deploy/static/js/main.ec15fdd8.chunk.js.map",
+    "main.js": "/covid-deploy/static/js/main.1b6748bc.chunk.js",
+    "main.js.map": "/covid-deploy/static/js/main.1b6748bc.chunk.js.map",
     "runtime-main.js": "/covid-deploy/static/js/runtime-main.f605e9bc.js",
     "runtime-main.js.map": "/covid-deploy/static/js/runtime-main.f605e9bc.js.map",
     "static/js/2.e836a8b3.chunk.js": "/covid-deploy/static/js/2.e836a8b3.chunk.js",
     "static/js/2.e836a8b3.chunk.js.map": "/covid-deploy/static/js/2.e836a8b3.chunk.js.map",
     "index.html": "/covid-deploy/index.html",
-    "precache-manifest.678cac24bafc278801ff76c0e0f1de99.js": "/covid-deploy/precache-manifest.678cac24bafc278801ff76c0e0f1de99.js",
+    "precache-manifest.9ffb3cfcc20205f908f337d5cf3995e0.js": "/covid-deploy/precache-manifest.9ffb3cfcc20205f908f337d5cf3995e0.js",
     "service-worker.js": "/covid-deploy/service-worker.js",
     "static/js/2.e836a8b3.chunk.js.LICENSE.txt": "/covid-deploy/static/js/2.e836a8b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f605e9bc.js",
     "static/js/2.e836a8b3.chunk.js",
-    "static/js/main.ec15fdd8.chunk.js"
+    "static/js/main.1b6748bc.chunk.js"
   ]
 }
